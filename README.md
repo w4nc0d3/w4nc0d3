@@ -1,16 +1,22 @@
-### Hi there 👋
+## Helo Im w4nc0d3
+<img align="center" height="auto" src="https://cdn.pixabay.com/photo/2020/10/25/17/06/boruto-5684895_1280.png"/>
 
-<!--
-**w4nc0d3/w4nc0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+Im w4nc0d3 Greetings You
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+## Statistik:
+
+What i am learning on these days
+
+![W4nC0d3 github stats](https://github-readme-stats.vercel.app/api?username=w4nc0d3&show_icons=true&theme=buefy&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4nc0d3&theme=buefy&hide=css,html)
+
+## Sosial Media :
+Instagram : <a href="https://Instagram.com/w4nfivezero"> W4nFiveZero
+
+
+Telegram : <a href="t.me/wanfivezero"> WanFiveZero
+___
